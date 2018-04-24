@@ -66,3 +66,4 @@ if (email.find("emergency"))>0:
     print("Do you want to make this email urgent?")
 elif (email.find("joke"))>0:
     print("Do you want to send this email as non-urgent?")
+    print ("hello")
